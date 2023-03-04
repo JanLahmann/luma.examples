@@ -1,0 +1,4 @@
+--display=ws2812
+--interface=noop
+--width=22
+--height=20
